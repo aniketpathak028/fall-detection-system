@@ -28,3 +28,6 @@ Detect human falls and falling actions in real time using videos and custom obje
 2. Upload a video file containing human movement and view the processed fall detection output!
 
 ## Demo
+
+https://github.com/user-attachments/assets/84f1259c-ee6c-4067-a602-2bda8937c6a1
+
